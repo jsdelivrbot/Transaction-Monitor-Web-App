@@ -1,0 +1,60 @@
+/*body {  
+    background-size: 40px 40px;
+    background-image: linear-gradient(to right, grey 1px, transparent 1px), linear-gradient(to bottom, grey 1px, transparent 1px);
+}*/
+
+.graph-container{
+	display: flex;
+	align-items: flex-end;
+	background-color: #252d2f;
+}
+
+.graph{
+
+	background-position: bottom left;
+    background-image: linear-gradient(to right, #787878 1px, transparent 1px), linear-gradient(to bottom, #787878 1px, transparent 1px);
+	width: 100%
+}
+
+.graph p{
+	color: white;
+}
+
+.netLoss {
+	background-color: #d73e52;
+}
+
+.netGain {
+	background-color: #9fcb83;
+}
+
+.bar{
+	height: 0;
+	transition: 500ms height ease;
+	max-width: 100px;
+}
+
+.bar-container{
+	margin-right: 20px;
+}
+
+.graph-button-container{
+	display: flex;
+	float: right;
+	margin-top: 20px;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: 20px;
+}
+
+.scale{
+	float: left;
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+.scale p{
+	color: white;
+	margin-bottom: 0
+
+}

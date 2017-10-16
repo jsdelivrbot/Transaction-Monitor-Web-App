@@ -1,0 +1,150 @@
+[
+    {
+        "date": "09112017",
+        "description": "Contactless Interac purchase - 0390MCDONALD'S #455",
+        "withdrawal": "-$4.72",
+        "deposit": "",
+        "balance": "$1,000,824.57"
+    },
+    {
+        "date": "09112017",
+        "description": "0390MCDONALD",
+        "withdrawal": "-$9.03",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "09142017",
+        "description": "MASTERCD",
+        "withdrawal": "",
+        "deposit": "$80.40",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "09142017",
+        "description": "Contactless Interac purchase - 9514SUBWAY # 54335",
+        "withdrawal": "-$4.73",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "09152017",
+        "description": "SEACOV",
+        "withdrawal": "",
+        "deposit": "$614.46",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "09152017",
+        "description": "9514SUBWAY",
+        "withdrawal": "",
+        "deposit": "$7424.64",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "09152017",
+        "description": "Online Banking payment - 2772BMO MASTERCD",
+        "withdrawal": "-$106.39",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "09152017",
+        "description": "Online Banking transfer - 1217",
+        "withdrawal": "-$248.26",
+        "deposit": "",
+        "balance": "$7,895.66"
+    },
+    {
+        "date": "09182017",
+        "description": "Interac purchase - 8759WAL-MART #3031",
+        "withdrawal": "-$16.35",
+        "deposit": "",
+        "balance": "$7,879.31"
+    },
+    {
+        "date": "09242017",
+        "description": "Contactless Interac purchase - 2403MCDONALD'S #101",
+        "withdrawal": "-$1.88",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "09252017",
+        "description": "Contactless Interac purchase - 2950BUSTER'S SEACOV",
+        "withdrawal": "-$13.51",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "09262017",
+        "description": "Contactless Interac purchase - 6624FRESHCO #9889",
+        "withdrawal": "-$85.63",
+        "deposit": "",
+        "balance": "$7,778.29"
+    },
+    {
+        "date": "10072017",
+        "description": "Payroll deposit",
+        "withdrawal": "",
+        "deposit": "$64231.64",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "10082017",
+        "description": "Online Banking 3rd party deposit",
+        "withdrawal": "",
+        "deposit": "$5.00",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "10092017",
+        "description": "Online Banking transfer",
+        "withdrawal": "-$18.49",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "10102017",
+        "description": "Online Banking payment",
+        "withdrawal": "-$71.42",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "10112017",
+        "description": "Online Banking payment",
+        "withdrawal": "",
+        "deposit": "$4.00",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "10122017",
+        "description": "Online Banking payment",
+        "withdrawal": "-$5.00",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "10132017",
+        "description": "Online Banking payment",
+        "withdrawal": "$20.00",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "10142017",
+        "description": "Online Banking payment",
+        "withdrawal": "$50.00",
+        "deposit": "",
+        "balance": "$1,000,891.21"
+    },
+    {
+        "date": "10142017",
+        "description": "Online Banking payment",
+        "withdrawal": "",
+        "deposit": "$10.00",
+        "balance": "$1,000,891.21"
+    }
+
+]
