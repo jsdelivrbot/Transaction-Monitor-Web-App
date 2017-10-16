@@ -7,6 +7,6 @@ This project is displays all your recent transactions from a generated JSON file
 `npm start`
 Go to http://localhost:8080/
 
-## TODO:
+## Todo:
 - Create an api endpoint to fetch the data rather than read it in a JSON format
 - Create pannel to view the sources of all transactions
